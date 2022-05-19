@@ -105,8 +105,8 @@ global.sessionName = 'chika'
 - [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
 
 # Thanks to
-[Dika](https://github.com/DikaArdnt)
-[Fatih](https://github.com/FatihArridho)
-[Zeeone](https://github.com/zeeone-ofc)
-[Yoga](https://github.com/YogGanz)
-[Riy](https://github.com/riychdwayne)
+[Dika](https://github.com/DikaArdnt) <br> 
+[Fatih](https://github.com/FatihArridho) <br> 
+[Zeeone](https://github.com/zeeone-ofc) <br> 
+[Yoga](https://github.com/YogGanz) <br> 
+[Riy](https://github.com/riychdwayne) <br> 
