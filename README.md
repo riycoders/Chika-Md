@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/riychdwayne/Chika-MdV7/blob/V7/image/chika.jpg" alt="CHIKA-MD" width="100"/>
+<img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Chika-Md" width="100"/>
 
 
 </p>
@@ -105,14 +105,13 @@ global.sessionName = 'chika'
 - [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
 
 # Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a>
+<a href="https://github.com/DikaArdnt"></a>
 [Dika](https://github.com/DikaArdnt)
-<a href="https://github.com/FatihArridho"><img src="https://github.com/FatihArridho.png?size=100" width="100" height="100"></a>
+<a href="https://github.com/FatihArridho"></a>
 [Fatih](https://github.com/FatihArridho)
-<a href="https://github.com/zeeone-ofc"><img src="https://github.com/zeeone-ofc.png?size=100" width="100" height="100"></a>
+<a href="https://github.com/zeeone-ofc"></a>
 [Zeeone](https://github.com/zeeone-ofc)
-<a href="https://github.com/YogGanz"><img src="https://github.com/YogGanz.png?size=100" width="100" height="100"></a>
+<a href="https://github.com/YogGanz"></a>
 [Yoga](https://github.com/YogGanz)
-<a href="https://github.com/riychdwayne"><img src="https://github.com/riychdwayne.png?size=100" width="100" height="100"></a>
+<a href="https://github.com/riychdwayne"></a>
 [Riy](https://github.com/riychdwayne)
-
