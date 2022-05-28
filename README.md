@@ -39,7 +39,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6285772148224)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.owner = ['6285772148224','625772148224','6285772148224']
+global.premium = ['628577218224']
+global.ownernomer = '6285772148224'
+global.ownername = 'ASEP'
+global.botname = 'YUSUP'
+global.footer = 'ASEP-YUSUP'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'dogimy@gamil.com'
 global.region = 'indonesia'
 global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.author = 'ASEP'
+global.sessionName = 'DINDA'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -96,8 +96,8 @@ global.sessionName = 'chika'
 </p>
 
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Dana](https://wa.me/6285772148224?text=Bang+mau+donasi)
+- [Gopay](https://wa.me/6285772148224?text=Bang+mau+donasi)
 
 # Official Group
 - [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
