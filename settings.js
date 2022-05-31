@@ -22,22 +22,22 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6282362285077','6282362285077','6282362285077'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6282362285077'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6282362285077' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Juvian' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Viann-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Juvian' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.ig = 'https://instagram.com/juvian00'
+global.mygc = 'https://chat.whatsapp.com/GHpJFZGnEIIGUt3p310lBw'
 global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'johanmichael929@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
@@ -85,17 +85,17 @@ global.mess = {
 success: '_Done._',
 admin: '_Fitur Khusus Admin Group!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
+owner: '_Buat Owner doang nih deck_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
 wait: '_Sedang Di Proses..._',
 error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 ya deck_',
 }
 
 //—————「 Batas Akhir 」—————//
-//gausah si apa² in!
+//gausah si apa² in! 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 fs.unwatchFile(file)
