@@ -1,0 +1,3 @@
+Buat remove-bg banh, tapi masi blm fix 
+node:internal/process/promises:279
+            triggerUncaughtException(err, true /* fromPromise */);
