@@ -577,18 +577,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
   ✎ ${prefix}darkjokes
   
   *(🙏) Thanks To*
-  ✎ Dika Ardnt
-  ✎ Mhankbarbar
-  ✎ Fatih Arridho
-  ✎ Ryuka Team
-  ✎ Zeeone Ofc
-  ✎ Bagas Prdn
-  ✎ Nurutomo
-  ✎ OnX Dz
-  ✎ Nekel
-  ✎ Yoga
-  ✎ Deff
-  ✎ Riy
+  ✎ Mars
   `
   }
 
@@ -1270,17 +1259,6 @@ wa.me/${ownernomer}
   exports.thanksto = () => {
   return `
   *(🙏) Thanks To*
-  ✎ Dika Ardnt
-  ✎ Mhankbarbar
-  ✎ Fatih Arridho
-  ✎ Ryuka Team
-  ✎ Zeeone Ofc
-  ✎ Bagas Prdn
-  ✎ Nurutomo
-  ✎ OnX Dz
-  ✎ Nekel
-  ✎ Yoga
-  ✎ Deff
-  ✎ Riy
+  ✎ Mars
   `
   }
