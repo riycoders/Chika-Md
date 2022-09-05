@@ -1,6 +1,6 @@
   /*
-  Created By Riy
-  Base Ori : DikaArdnt
+  Created By nanat cantii
+  Base Ori : nanat iyah
   Kalau Mau Nambahin Fitur Di › index.js
   Edit Tampilan Menu Dll. Di › Language › help.js
   */
@@ -19,24 +19,24 @@
   }
 
   // Setting Owner
-  global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-  global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.owner = ['6281649370524','6288215968463','6281649370524'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.premium = ['6281649370524'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+  global.ownernomer = '6281649370524' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
   // Set Nama Own & Bot
-  global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-  global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-  global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.ownername = 'Nanat cantii' //ubah jadi nama mu, note tanda ' gausah di hapus!
+  global.botname = '𝐍𝐘 𝗑𝗑𐓣𝗑-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.footer = '𝐍𝐘 𝗑𝗑𐓣𝗑' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Kebutuhan Button & Kontak
   //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-  global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+  global.mygc = 'https://chat.whatsapp.com/FeOq1I7yAYwLorWhbHDcTD'
   global.myweb = 'https://api-riychdwayne.herokuapp.com'
   global.region = 'indonesia'
 
   // Set Wm
-  global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+  global.packname = '© 𝐍𝐘 𝗑𝗑𐓣𝗑-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
   global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
   // Set Nama Session
@@ -66,7 +66,7 @@
   // Message
   //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
   global.mess = {
-  success: '_Done._',
+  success: '_Done yyaw._',
   admin: '_Fitur Khusus Admin Group!_',
   botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
   owner: '_Fitur Khusus Owner Bot_',
