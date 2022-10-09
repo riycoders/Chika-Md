@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285777329413','6285777329413','6285777329413'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6285777329413'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285777329413' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername ='Aditya' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Lily Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'Bunga Bangkung' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
+global.ig = 'https://instagram.com/aditeigth'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/chikabot'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© LilyBoy' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'Adity' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -51,7 +51,7 @@ global.sessionName = 'session'
 //—————「 Set Limit 」—————//
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
 global.limitawal = {
-premium: "Infinity",
+premium: "9999999",
 free: 15,
 }
 
@@ -84,12 +84,12 @@ global.sp = '⭔'
 global.mess = {
 success: '_Done._',
 admin: '_Fitur Khusus Admin Group!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
+botAdmin: '_Bot Harus Jadi atmin dulu!_',
 owner: '_Fitur Khusus Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
 private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
 bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
+wait: '_Bentar cuy..._',
 error: '_Fitur Sedang Error!_',
 endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
